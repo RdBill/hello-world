@@ -1,3 +1,2 @@
 # hello-world
-Some naive codes written by Rd Bill
-I am a student studying in USTC and my major is physics.
+Some naive codes written by Rd Bill who is a sophomore student in USTC and his major is physics.
